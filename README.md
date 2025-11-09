@@ -55,3 +55,7 @@ Usuario U13 agregado.
 Relaciones de U13 agregadas.
 Usuario U1 actualizado.
 Arista U2->U6 eliminada.
+
+## Licencia
+
+Proyecto académico con fines educativos. Libre de uso y modificación con fines no comerciales.
